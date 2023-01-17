@@ -1,0 +1,45 @@
+
+body{
+    background-color: rgb(153, 104, 141);
+}
+
+.classsection-uno {
+    width: 75%;
+    float: right;
+
+    columns: 4;
+}
+
+    section {
+    background-color: antiquewhite;
+    width: 300px;
+    border: 3px solid rgb(36, 6, 36);
+    margin: 90px;
+    padding: 70px 100px 70px 100px;
+
+
+}
+
+
+#titulo{
+    text-align: center;
+    color: rgb(226, 129, 213) ;
+    border: 1px dashed grey; margin-inline-start: 55px;
+    padding: 10px 15px 15px 10px;
+    margin: 20px 20px 40px 40px ;
+
+}
+
+#center{
+    color: black transparent;
+    text-align: center;
+}
+
+
+.classcolumna-2{
+    width: 25%;
+    float: left;
+    columns: 4;
+}
+
+    
